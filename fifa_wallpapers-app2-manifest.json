@@ -1,0 +1,64 @@
+{
+    "wallpapers": {
+        "category": [
+            {
+                "name": "Random",
+                "wallpaper": [
+                    {
+                        "author": "By Blah Blah Blah",
+                        "url": "https://lh5.googleusercontent.com/-Ymw1gubNSoY/VBQxekYeBFI/AAAAAAAAChY/so7_QIRgafI/w731-h457-no/basketball-hd-wallpapers-cool-desktop-images-widescreen.jpg",
+                        "thumbUrl": "https://lh5.googleusercontent.com/-Ymw1gubNSoY/VBQxekYeBFI/AAAAAAAAChY/so7_QIRgafI/w731-h457-no/basketball-hd-wallpapers-cool-desktop-images-widescreen.jpg",
+                        "name": "WP 1"
+                    },
+                    {
+                        "author": "By Blah Blah Blah",
+                        "url": "https://lh6.googleusercontent.com/-vp2Gn4nF7DI/VBQxTQDesRI/AAAAAAAACg8/CkCkePks3LY/w571-h457-no/Basketball-Wallpapers-94.jpg",
+                        "thumbUrl": "https://lh6.googleusercontent.com/-vp2Gn4nF7DI/VBQxTQDesRI/AAAAAAAACg8/CkCkePks3LY/w571-h457-no/Basketball-Wallpapers-94.jpg",
+                        "name": "WP 2"
+                    },
+                    {
+                        "author": "By Blah Blah Blah",
+                        "url": "https://lh6.googleusercontent.com/-XvdGbYcc1_Q/VBQxg-igsqI/AAAAAAAAChk/oCGiwMvhfe8/w483-h332-no/bjelica.jpg",
+                        "thumbUrl": "https://lh6.googleusercontent.com/-XvdGbYcc1_Q/VBQxg-igsqI/AAAAAAAAChk/oCGiwMvhfe8/w483-h332-no/bjelica.jpg",
+                        "name": "WP 3"
+                    },
+                    {
+                        "author": "By Blah Blah Blah",
+                        "url": "https://lh5.googleusercontent.com/-Qv30QWPmE3s/VBQxtvRYiJI/AAAAAAAACh0/gGr9jvT_G6c/w524-h457-no/Dunk-Basketball-Wallpaper.jpg",
+                        "thumbUrl": "https://lh5.googleusercontent.com/-Qv30QWPmE3s/VBQxtvRYiJI/AAAAAAAACh0/gGr9jvT_G6c/w524-h457-no/Dunk-Basketball-Wallpaper.jpg",
+                        "name": "WP 4"
+                    }
+                ]
+            },
+            {
+                "name": "Hits",
+                "wallpaper": [
+                    {
+                        "author": "By Blah Blah Blah",
+                        "url": "https://lh5.googleusercontent.com/-W4b3-SwewaA/VBQxeRtb-1I/AAAAAAAAChc/aLy7nvzI7Ug/w672-h457-no/Macedonia_Bo_McCalebb_Wallpapers.png",
+                        "thumbUrl": "https://lh5.googleusercontent.com/-W4b3-SwewaA/VBQxeRtb-1I/AAAAAAAAChc/aLy7nvzI7Ug/w672-h457-no/Macedonia_Bo_McCalebb_Wallpapers.png",
+                        "name": "WP 1"
+                    },
+                    {
+                        "author": "By Blah Blah Blah",
+                        "url": "https://lh3.googleusercontent.com/-wT99dOKWQfQ/VBQxX3-gdEI/AAAAAAAAChE/6u280nNtv-I/w572-h457-no/Serge_Ibaka_Basketball_Wallpapers.jpg",
+                        "thumbUrl": "https://lh3.googleusercontent.com/-wT99dOKWQfQ/VBQxX3-gdEI/AAAAAAAAChE/6u280nNtv-I/w572-h457-no/Serge_Ibaka_Basketball_Wallpapers.jpg",
+                        "name": "WP 2"
+                    },
+                    {
+                        "author": "By Blah Blah Blah",
+                        "url": "https://lh3.googleusercontent.com/-7PLcntBSx_I/VBQxaDncBBI/AAAAAAAAChM/vtFaJHmKC8Q/w483-h332-no/Small_rose_1_.jpg",
+                        "thumbUrl": "https://lh3.googleusercontent.com/-7PLcntBSx_I/VBQxaDncBBI/AAAAAAAAChM/vtFaJHmKC8Q/w483-h332-no/Small_rose_1_.jpg",
+                        "name": "WP 3"
+                    },
+                    {
+                        "author": "By Blah Blah Blah",
+                        "url": "https://lh6.googleusercontent.com/-EtyeOeMs1Bo/VBQxjkysqYI/AAAAAAAAChs/DkjFvZi93tY/w640-h457-no/dFaZUa2a586JtIY2DpZR-m.png",
+                        "thumbUrl": "https://lh6.googleusercontent.com/-EtyeOeMs1Bo/VBQxjkysqYI/AAAAAAAAChs/DkjFvZi93tY/w640-h457-no/dFaZUa2a586JtIY2DpZR-m.png",
+                        "name": "WP 4"
+                    }
+                ]
+            }
+        ]
+    }
+}

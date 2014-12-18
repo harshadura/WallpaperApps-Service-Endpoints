@@ -1,13 +1,15 @@
-{ "category" : [ { "name" : "Fast And Furious 7",
+{ 
+"category" : [ 
+        { "name" : "Fifa14",
         "wallpaper" : [ { "attribution" : null,
               "author" : "HDwallpapers.in",
               "author_url" : "https://www.hdwallpapers.in",
               "license_name" : "CC-BY-2.0",
               "license_url" : "https://creativecommons.org/licenses/by/2.0/",
               "name" : "Fast And Furious 1",
-              "source" : "https://www.flickr.com/photos/pocketwiley/1993993094/in/photostream/",
-              "thumbUrl" : "http://cdn.denofgeek.us/sites/denofgeekus/files/fast_and_furious_6-wide.jpg",
-              "url" : "http://cdn.denofgeek.us/sites/denofgeekus/files/fast_and_furious_6-wide.jpg"
+              "source" : "http://upload.wikimedia.org/wikipedia/commons/6/69/Brazil_and_Croatia_match_at_the_FIFA_World_Cup_2014-06-12_(16).jpg",
+              "thumbUrl" : "http://upload.wikimedia.org/wikipedia/commons/6/69/Brazil_and_Croatia_match_at_the_FIFA_World_Cup_2014-06-12_(16).jpg",
+              "url" : "http://upload.wikimedia.org/wikipedia/commons/6/69/Brazil_and_Croatia_match_at_the_FIFA_World_Cup_2014-06-12_(16).jpg"
             }, 
                         { "attribution" : null,
               "author" : "Darryl Moran",
@@ -15,55 +17,9 @@
               "license_name" : "CC-BY-SA-2.0",
               "license_url" : "https://creativecommons.org/licenses/by-sa/2.0/",
               "name" : "Fast And Furious 2",
-              "source" : "https://www.flickr.com/photos/dwmoran/3728559819/in/photostream/",
-              "thumbUrl" : "http://www.q8ryuk.com/wp-content/uploads/2014/11/fast-furious-7.jpg",
-              "url" : "http://www.q8ryuk.com/wp-content/uploads/2014/11/fast-furious-7.jpg"
+              "source" : "http://upload.wikimedia.org/wikipedia/commons/8/86/FIFA_World_Cup_2010_Brazil_North_Korea_5.jpg",
+              "thumbUrl" : "http://upload.wikimedia.org/wikipedia/commons/8/86/FIFA_World_Cup_2010_Brazil_North_Korea_5.jpg",
+              "url" : "http://upload.wikimedia.org/wikipedia/commons/8/86/FIFA_World_Cup_2010_Brazil_North_Korea_5.jpg"
             }]
-      },
-      { "name" : "The gang",
-        "wallpaper" : [ { "attribution" : null,
-              "author" : "Darryl Moran",
-              "author_url" : "https://www.flickr.com/photos/dwmoran/",
-              "license_name" : "CC-BY-SA-2.0",
-              "license_url" : "https://creativecommons.org/licenses/by-sa/2.0/",
-              "name" : "Fast And Furious 3",
-              "source" : "https://www.flickr.com/photos/dwmoran/3728188773/in/photostream/",
-              "thumbUrl" : "http://www.theclippingpoint.net/blogs/wp-content/uploads/2014/02/Fast-Furious-7.jpg",
-              "url" : "http://www.theclippingpoint.net/blogs/wp-content/uploads/2014/02/Fast-Furious-7.jpg"
-            }, 
-             { "attribution" : null,
-              "author" : "Darryl Moran",
-              "author_url" : "https://www.flickr.com/photos/dwmoran/",
-              "license_name" : "CC-BY-SA-2.0",
-              "license_url" : "https://creativecommons.org/licenses/by-sa/2.0/",
-              "name" : "Fast And Furious 4",
-              "source" : "https://www.flickr.com/photos/dwmoran/3728545775/in/photostream/",
-              "thumbUrl" : "http://www.thevipconcierge.com/images/EventImages/825631413825631413825631413825631413.jpg",
-              "url" : "http://www.thevipconcierge.com/images/EventImages/825631413825631413825631413825631413.jpg"
-            }]
-      },
-      { "name" : "Stars",
-        "wallpaper" : [
-             { "attribution" : null,
-              "author" : "Darryl Moran",
-              "author_url" : "https://www.flickr.com/photos/dwmoran/",
-              "license_name" : "CC-BY-SA-2.0",
-              "license_url" : "https://creativecommons.org/licenses/by-sa/2.0/",
-              "name" : "Fast And Furious 5",
-              "source" : "https://www.flickr.com/photos/dwmoran/3728545775/in/photostream/",
-              "thumbUrl" : "http://fc02.deviantart.net/fs71/i/2014/253/e/e/fast_and_furious_7_poster_by_karimelmahalawy-d7yr27m.png",
-              "url" : "http://fc02.deviantart.net/fs71/i/2014/253/e/e/fast_and_furious_7_poster_by_karimelmahalawy-d7yr27m.png"
-            },
-            { "attribution" : null,
-              "author" : "Darryl Moran",
-              "author_url" : "https://www.flickr.com/photos/dwmoran/",
-              "license_name" : "CC-BY-SA-2.0",
-              "license_url" : "https://creativecommons.org/licenses/by-sa/2.0/",
-              "name" : "Fast And Furious 6",
-              "source" : "https://www.flickr.com/photos/dwmoran/3728559819/in/photostream/",
-              "thumbUrl" : "http://fc05.deviantart.net/fs70/i/2011/118/c/5/paul_walker_2_fast_2_furious_by_londonicious-d3f2rta.jpg",
-              "url" : "http://fc05.deviantart.net/fs70/i/2011/118/c/5/paul_walker_2_fast_2_furious_by_londonicious-d3f2rta.jpg"
-            }
-          ]
-      }
+}
     ] }

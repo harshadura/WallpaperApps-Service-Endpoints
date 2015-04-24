@@ -1,0 +1,238 @@
+<?xml version="1.0"?>
+
+
+<!DOCTYPE rdf:RDF [
+    <!ENTITY owl "http://www.w3.org/2002/07/owl#" >
+    <!ENTITY xsd "http://www.w3.org/2001/XMLSchema#" >
+    <!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#" >
+    <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
+    <!ENTITY untitled-ontology-6 "http://www.semanticweb.org/harshadura/ontologies/2015/3/untitled-ontology-6#" >
+]>
+
+
+<rdf:RDF xmlns="http://www.semanticweb.org/harshadura/ontologies/2015/3/untitled-ontology-6#"
+     xml:base="http://www.semanticweb.org/harshadura/ontologies/2015/3/untitled-ontology-6"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:untitled-ontology-6="http://www.semanticweb.org/harshadura/ontologies/2015/3/untitled-ontology-6#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/harshadura/ontologies/2015/3/untitled-ontology-6">
+        <owl:versionIRI rdf:resource="http://harshadura.github.io"/>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/harshadura/ontologies/2015/3/untitled-ontology-6#Eats -->
+
+    <owl:ObjectProperty rdf:about="&untitled-ontology-6;Eats">
+        <rdfs:domain rdf:resource="&untitled-ontology-6;Person"/>
+        <rdfs:range rdf:resource="&untitled-ontology-6;Pizza"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/harshadura/ontologies/2015/3/untitled-ontology-6#Lives -->
+
+    <owl:ObjectProperty rdf:about="&untitled-ontology-6;Lives">
+        <rdfs:range rdf:resource="&untitled-ontology-6;Location"/>
+        <rdfs:domain rdf:resource="&untitled-ontology-6;Person"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/harshadura/ontologies/2015/3/untitled-ontology-6#Age -->
+
+    <owl:DatatypeProperty rdf:about="&untitled-ontology-6;Age">
+        <rdfs:domain rdf:resource="&untitled-ontology-6;Person"/>
+        <rdfs:range rdf:resource="&xsd;string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/harshadura/ontologies/2015/3/untitled-ontology-6#City -->
+
+    <owl:DatatypeProperty rdf:about="&untitled-ontology-6;City">
+        <rdfs:domain rdf:resource="&untitled-ontology-6;Location"/>
+        <rdfs:range rdf:resource="&xsd;string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/harshadura/ontologies/2015/3/untitled-ontology-6#Country -->
+
+    <owl:DatatypeProperty rdf:about="&untitled-ontology-6;Country">
+        <rdfs:domain rdf:resource="&untitled-ontology-6;Location"/>
+        <rdfs:range rdf:resource="&xsd;string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/harshadura/ontologies/2015/3/untitled-ontology-6#Name -->
+
+    <owl:DatatypeProperty rdf:about="&untitled-ontology-6;Name">
+        <rdfs:domain rdf:resource="&untitled-ontology-6;Person"/>
+        <rdfs:range rdf:resource="&xsd;string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/harshadura/ontologies/2015/3/untitled-ontology-6#PizzaType -->
+
+    <owl:DatatypeProperty rdf:about="&untitled-ontology-6;PizzaType">
+        <rdfs:domain rdf:resource="&untitled-ontology-6;Pizza"/>
+        <rdfs:range rdf:resource="&xsd;string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/harshadura/ontologies/2015/3/untitled-ontology-6#Location -->
+
+    <owl:Class rdf:about="&untitled-ontology-6;Location"/>
+    
+
+
+    <!-- http://www.semanticweb.org/harshadura/ontologies/2015/3/untitled-ontology-6#Person -->
+
+    <owl:Class rdf:about="&untitled-ontology-6;Person"/>
+    
+
+
+    <!-- http://www.semanticweb.org/harshadura/ontologies/2015/3/untitled-ontology-6#Pizza -->
+
+    <owl:Class rdf:about="&untitled-ontology-6;Pizza"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/harshadura/ontologies/2015/3/untitled-ontology-6#Cheese -->
+
+    <owl:NamedIndividual rdf:about="&untitled-ontology-6;Cheese">
+        <rdf:type rdf:resource="&untitled-ontology-6;Pizza"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/harshadura/ontologies/2015/3/untitled-ontology-6#Colombo -->
+
+    <owl:NamedIndividual rdf:about="&untitled-ontology-6;Colombo">
+        <rdf:type rdf:resource="&untitled-ontology-6;Location"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/harshadura/ontologies/2015/3/untitled-ontology-6#Galle -->
+
+    <owl:NamedIndividual rdf:about="&untitled-ontology-6;Galle">
+        <rdf:type rdf:resource="&untitled-ontology-6;Location"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/harshadura/ontologies/2015/3/untitled-ontology-6#Gayan -->
+
+    <owl:NamedIndividual rdf:about="&untitled-ontology-6;Gayan">
+        <rdf:type rdf:resource="&untitled-ontology-6;Person"/>
+        <Age rdf:datatype="&xsd;string">25</Age>
+        <City rdf:datatype="&xsd;string">Colombo</City>
+        <Name rdf:datatype="&xsd;string">Gayan perera</Name>
+        <Country rdf:datatype="&xsd;string">Sri Lanka</Country>
+        <PizzaType rdf:datatype="&xsd;string">Tandoori</PizzaType>
+        <Eats rdf:resource="&untitled-ontology-6;Cheese"/>
+        <Lives rdf:resource="&untitled-ontology-6;Colombo"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/harshadura/ontologies/2015/3/untitled-ontology-6#Harsha -->
+
+    <owl:NamedIndividual rdf:about="&untitled-ontology-6;Harsha">
+        <rdf:type rdf:resource="&untitled-ontology-6;Person"/>
+        <Age rdf:datatype="&xsd;string">35</Age>
+        <Name rdf:datatype="&xsd;string">Harsha Siriwardena</Name>
+        <City rdf:datatype="&xsd;string">Puttalam</City>
+        <Country rdf:datatype="&xsd;string">Sri Lanka</Country>
+        <PizzaType rdf:datatype="&xsd;string">Tandoori</PizzaType>
+        <Lives rdf:resource="&untitled-ontology-6;Galle"/>
+        <Eats rdf:resource="&untitled-ontology-6;Tandoori"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/harshadura/ontologies/2015/3/untitled-ontology-6#Kandy -->
+
+    <owl:NamedIndividual rdf:about="&untitled-ontology-6;Kandy">
+        <rdf:type rdf:resource="&untitled-ontology-6;Location"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/harshadura/ontologies/2015/3/untitled-ontology-6#Nuwan -->
+
+    <owl:NamedIndividual rdf:about="&untitled-ontology-6;Nuwan">
+        <rdf:type rdf:resource="&untitled-ontology-6;Person"/>
+        <Age rdf:datatype="&xsd;string">27</Age>
+        <PizzaType rdf:datatype="&xsd;string">Chicken</PizzaType>
+        <City rdf:datatype="&xsd;string">Malabe</City>
+        <Name rdf:datatype="&xsd;string">Nuwan Silva</Name>
+        <Country rdf:datatype="&xsd;string">Sri Lanka</Country>
+        <Eats rdf:resource="&untitled-ontology-6;Cheese"/>
+        <Lives rdf:resource="&untitled-ontology-6;Kandy"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/harshadura/ontologies/2015/3/untitled-ontology-6#Tandoori -->
+
+    <owl:NamedIndividual rdf:about="&untitled-ontology-6;Tandoori">
+        <rdf:type rdf:resource="&untitled-ontology-6;Pizza"/>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.5.1) http://owlapi.sourceforge.net -->
+

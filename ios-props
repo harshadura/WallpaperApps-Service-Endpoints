@@ -1,47 +1,47 @@
 /* Address */
-"Address" = "Address";
+"Address" = "ලිපිනය";
 
 /* Birth date of person */
-"BirthDate" = "BirthDate";
+"BirthDate" = "උපන් දිනය ";
 
 /* Is birth date estimated? */
-"BirthDate Estimated" = "BirthDate Estimated";
+"BirthDate Estimated" = "ඇස්තමේන්තු කල උපන් දිනය ";
 
 /* Error message */
 "Can't save your edits right now, choose Retry to retry now or Save to save your edits offline to sync later" = "Can't save your edits right now, choose Retry to retry now or Save to save your edits offline to sync later";
 
 /* Cancel button label */
-"Cancel" = "Cancel";
+"Cancel" = "නික්මෙන්න ;
 
 /* Cause of death */
-"Cause Of Death" = "Cause Of Death";
+"Cause Of Death" = "මරණයට හේතුව ";
 
 /* City village */
-"City Village" = "City Village";
+"City Village" = "ගම ";
 
 /* Country */
-"Country" = "Country";
+"Country" = "රට ";
 
 /* County District */
-"County District" = "County District";
+"County District" = "දිස්ත්‍රික්කය ";
 
 /* Is dead? */
-"Dead" = "Dead";
+"Dead" = "මරණය ";
 
 /* Title -Edit- -patient- */
-"Edit patient" = "Edit patient";
+"Edit patient" = "රෝගියා  වෙනස්කිරීම ";
 
 /* Warning label -Error- and -Saving- */
-"Error saving" = "Error saving";
+"Error saving" = "වරද හරිගස්වීම ";
 
 /* First character of gender -female- */
-"F" = "F";
+"F" = "ගැ ";
 
 /* False value */
-"false" = "false";
+"false" = "ව්‍යාජ ";
 
 /* Family name */
-"Family Name" = "Family Name";
+"Family Name" = "වාසගම ";
 
 /* Gender of person */
 "Gender" = "Gender";

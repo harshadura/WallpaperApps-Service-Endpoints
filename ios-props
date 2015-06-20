@@ -44,19 +44,19 @@
 "Family Name" = "වාසගම ";
 
 /* Gender of person */
-"Gender" = "Gender";
+"Gender" = "ලිංගය ";
 
 /* Given -first name */
-"Given Name" = "Given Name";
+"Given Name" = "පළමු නම "
 
 /* Location lattitude */
 "Latitude" = "Latitude";
 
 /* Location longtiude */
-"Longitude" = "Longitude";
+"Longitude" = "දේශාංශය";
 
 /* First character of gender -male- */
-"M" = "M";
+"M" = "පි ";
 
 /* Middle name */
 "Middle Name" = "Middle Name";

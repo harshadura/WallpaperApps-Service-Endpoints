@@ -1,0 +1,273 @@
+/* Address */
+"Address" = "Address";
+
+/* Birth date of person */
+"BirthDate" = "BirthDate";
+
+/* Is birth date estimated? */
+"BirthDate Estimated" = "BirthDate Estimated";
+
+/* Error message */
+"Can't save your edits right now, choose Retry to retry now or Save to save your edits offline to sync later" = "Can't save your edits right now, choose Retry to retry now or Save to save your edits offline to sync later";
+
+/* Cancel button label */
+"Cancel" = "Cancel";
+
+/* Cause of death */
+"Cause Of Death" = "Cause Of Death";
+
+/* City village */
+"City Village" = "City Village";
+
+/* Country */
+"Country" = "Country";
+
+/* County District */
+"County District" = "County District";
+
+/* Is dead? */
+"Dead" = "Dead";
+
+/* Title -Edit- -patient- */
+"Edit patient" = "Edit patient";
+
+/* Warning label -Error- and -Saving- */
+"Error saving" = "Error saving";
+
+/* First character of gender -female- */
+"F" = "F";
+
+/* False value */
+"false" = "false";
+
+/* Family name */
+"Family Name" = "Family Name";
+
+/* Gender of person */
+"Gender" = "Gender";
+
+/* Given -first name */
+"Given Name" = "Given Name";
+
+/* Location lattitude */
+"Latitude" = "Latitude";
+
+/* Location longtiude */
+"Longitude" = "Longitude";
+
+/* First character of gender -male- */
+"M" = "M";
+
+/* Middle name */
+"Middle Name" = "Middle Name";
+
+/* Label named person */
+"Person" = "Person";
+
+/* Postal code */
+"Postal Code" = "Postal Code";
+
+/* Label named -Preferred- -Address- */
+"Preferred Address" = "Preferred Address";
+
+/* Label named -Preferred- -Name-) */
+"Preferred Name" = "Preferred Name";
+
+/* Retry button label */
+"Retry" = "Retry";
+
+/* Save button label */
+"Save" = "Save";
+
+/* Response -saved- label */
+"Saved" = "Saved";
+
+/* State province */
+"State Province" = "State Province";
+
+/* True value */
+"true" = "true";
+
+/* Label Actions */
+"Actions" = "Actions";
+
+/* Label add visit note */
+"Add Visit Note" = "Add Visit Note";
+
+/* Label age */
+"Age" = "Age";
+
+/* Cancel button label */
+"Cancel" = "Cancel";
+
+/* Response label -could- -not- saved - visit-  */
+"Couldn't stop visit" = "Couldn't stop visit";
+
+/* Label Edit Patient */
+"Edit Patient" = "Edit Patient";
+
+/* Label encounters */
+"Encounters" = "Encounters";
+
+/* Gender of person */
+"Gender" = "Gender";
+
+/* Label name */
+"Name" = "Name";
+
+/* Label save for offline use */
+"Save for Offline Use" = "Save for Offline Use";
+
+/* Label start visit */
+"Start Visit" = "Start Visit";
+
+/* Label stop visit */
+"Stop Visit" = "Stop Visit";
+
+/* Label stopping visit */
+"Stopping Visit" = "Stopping Visit";
+
+/* Label update offline record */
+"Update Offline Record" = "Update Offline Record";
+
+/* Label visits */
+"Visits" = "Visits";
+
+/* Message -can- -not- -load- -patients- */
+"Can't load patients" = "Can't load patients";
+
+/* Message -could- -not- -find- -patients */
+"Couldn't find patients" = "Couldn't find patients";
+
+/* Label offline */
+"Offline" = "Offline";
+
+/* Label online */
+"Online" = "Online";
+
+/* Title label patients */
+"Patients" = "Patients";
+
+/* Message -patients- -found- */
+"patients found" = "patients found";/* Label -active- -visits */
+"Active visits" = "Active visits";
+
+/* Label -add- -patient- */
+"Add Patient" = "Add Patient";
+
+/* Orgnaization name */
+"OpenMRS" = "OpenMRS";
+
+/* Label -patient- -search- */
+"Patient Search" = "Patient Search";
+
+/* Label settings */
+"Settings" = "Settings";
+
+/* Label -identifier- -type- */
+"Identifier Type" = "Identifier Type";
+
+/* Label -select- -type- */
+"Select Type" = "Select Type";
+
+/* Label -logged- -in- -as */
+"Logged in as" = "Logged in as";
+
+/* Label logout */
+"Logout" = "Logout";
+
+/* Label -remove- -offline- -patients- */
+"Remove Offline Patients" = "Remove Offline Patients";
+
+/* Label settings */
+"Settings" = "Settings";
+
+/* Label -sync- -offline- -patients- */
+"Sync offline patients" = "Sync offline patients";
+
+/* Label host */
+"Host" = "Host";
+
+/* Label password */
+"Password" = "Password";
+
+/* Lable -sign- -in */
+"Sign in" = "Sign in";
+
+/* Label username */
+"Username" = "Username";
+
+/* Label -add- -patient- */
+"Add Patient" = "Add Patient";
+
+/* Label age */
+"Age" = "Age";
+
+/* Error message */
+"Couldn't save patient. Make sure all required fields are filled out" = "Couldn't save patient. Make sure all required fields are filled out";
+
+/* Warning label error */
+"Error" = "Error";
+
+/* Family name */
+"Family Name" = "Family Name";
+
+/* Label male */
+"Female" = "Female";
+
+/* Given -first name */
+"Given Name" = "Given Name";
+
+/* Label -ID- -type- */
+"ID Type" = "ID Type";
+
+/* Label identifier */
+"Identifier" = "Identifier";
+
+/* Label female */
+"Male" = "Male";
+
+/* Label name */
+"Name" = "Name";
+
+/* Label select */
+"Select" = "Select";
+
+/* Label -choose- -location- */
+"Choose Location" = "Choose Location";
+
+/* Label -capture- -vitals- */
+"Capture Vitals" = "Capture Vitals";
+
+/* Label location */
+"Location" = "Location";
+
+/* Label select */
+"Select" = "Select";
+
+/* Label value */
+"Value" = "Value";
+
+/* Label vitals */
+"Vitals" = "Vitals";
+
+/* Lable -add- -visit- -note- */
+"Add Visit Note" = "Add Visit Note";
+
+/* Label choose */
+"Choose" = "Choose";
+
+/* Label -note- -on */
+"Note on" = "Note on";
+
+/* Label -select- -location- */
+"Select Location" = "Select Location";
+
+/* Label -select- -visit- -type- */
+"Select visit Type" = "Select visit Type";
+
+/* Label -start- -visit- */
+"Start Visit" = "Start Visit";
+
+/* Label -visit- -type- */
+"Visit Type" = "Visit Type";

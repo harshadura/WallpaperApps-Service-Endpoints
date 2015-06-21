@@ -2,94 +2,94 @@
 "Address" = "ලිපිනය";
 
 /* Birth date of person */
-"BirthDate" = "උපන් දිනය ";
+"BirthDate" = "උපන් දිනය";
 
 /* Is birth date estimated? */
-"BirthDate Estimated" = "ඇස්තමේන්තු කල උපන් දිනය ";
+"BirthDate Estimated" = "ඇස්තමේන්තු කල උපන් දිනය";
 
 /* Error message */
 "Can't save your edits right now, choose Retry to retry now or Save to save your edits offline to sync later" = "Can't save your edits right now, choose Retry to retry now or Save to save your edits offline to sync later";
 
 /* Cancel button label */
-"Cancel" = "නික්මෙන්න ;
+"Cancel" = "නික්මෙන්න” ;
 
 /* Cause of death */
-"Cause Of Death" = "මරණයට හේතුව ";
+"Cause Of Death" = "මරණයට හේතුව";
 
 /* City village */
-"City Village" = "ගම ";
+"City Village" = "ගම";
 
 /* Country */
-"Country" = "රට ";
+"Country" = “රට”;
 
 /* County District */
-"County District" = "දිස්ත්‍රික්කය ";
+"County District" = "දිස්ත්‍රික්කය";
 
 /* Is dead? */
-"Dead" = "මරණය ";
+"Dead" = "මරණය";
 
 /* Title -Edit- -patient- */
-"Edit patient" = "රෝගියා  වෙනස්කිරීම ";
+"Edit patient" = "රෝගියා  වෙනස්කිරීම";
 
 /* Warning label -Error- and -Saving- */
-"Error saving" = "වරද හරිගස්වීම ";
+"Error saving" = "වරද හරිගස්වීම";
 
 /* First character of gender -female- */
-"F" = "ගැ ";
+"F" = "ගැ";
 
 /* False value */
-"false" = "ව්‍යාජ ";
+"false" = "ව්‍යාජ";
 
 /* Family name */
-"Family Name" = "වාසගම ";
+"Family Name" = "වාසගම";
 
 /* Gender of person */
-"Gender" = "ලිංගය ";
+"Gender" = "ලිංගය";
 
 /* Given -first name */
-"Given Name" = "පළමු නම "
+"Given Name" = "පළමු නම"
 
 /* Location lattitude */
-"Latitude" = "Latitude";
+"Latitude" = “අක්ෂාංශ”;
 
 /* Location longtiude */
-"Longitude" = "දේශාංශය";
+"Longitude" = "දේශාංශ";
 
 /* First character of gender -male- */
-"M" = "පි ";
+"M" = "පි";
 
 /* Middle name */
-"Middle Name" = "Middle Name";
+"Middle Name" = “මැද නම”;
 
 /* Label named person */
-"Person" = "Person";
+"Person" = “පුද්ගලයා”;
 
 /* Postal code */
-"Postal Code" = "Postal Code";
+"Postal Code" = “තෑපෑල් අංකය”;
 
 /* Label named -Preferred- -Address- */
-"Preferred Address" = "Preferred Address";
+"Preferred Address" = “වඩා සුදුසු ලිපිනය”;
 
 /* Label named -Preferred- -Name-) */
-"Preferred Name" = "Preferred Name";
+"Preferred Name" = "වඩා සුදුසු නම”;
 
 /* Retry button label */
-"Retry" = "Retry";
+"Retry" = “නෑවත උත්සාහ කරන්න”;
 
 /* Save button label */
-"Save" = "Save";
+"Save" = “ස්ථාපනය කරන්න”;
 
 /* Response -saved- label */
-"Saved" = "Saved";
+"Saved" = “ස්ථාපනය කරන ලදි”;
 
 /* State province */
-"State Province" = "State Province";
+"State Province" = “පලා”;
 
 /* True value */
-"true" = "true";
+"true" = “හරි”;
 
 /* Label Actions */
-"Actions" = "Actions";
+"Actions" = “ක්‍රියාව”;
 
 /* Label add visit note */
 "Add Visit Note" = "Add Visit Note";

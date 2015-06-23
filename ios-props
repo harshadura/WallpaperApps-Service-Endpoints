@@ -23,7 +23,7 @@
 "Country" = “රට”;
 
 /* County District */
-"County District" = "දිස්ත්‍රික්කය";
+"County District" = "දිස්ත්‍රික්කය"
 
 /* Is dead? */
 "Dead" = "මරණය";
@@ -83,7 +83,7 @@
 "Saved" = “ස්ථාපනය කරන ලදි”;
 
 /* State province */
-"State Province" = “පලා”;
+"State Province" = “පලාත"
 
 /* True value */
 "true" = “හරි”;
@@ -95,25 +95,25 @@
 "Add Visit Note" = "Add Visit Note";
 
 /* Label age */
-"Age" = "Age";
+"Age" = "වයස";
 
 /* Cancel button label */
-"Cancel" = "Cancel";
+"Cancel" = "අවලංගු කරන්න";
 
 /* Response label -could- -not- saved - visit-  */
 "Couldn't stop visit" = "Couldn't stop visit";
 
 /* Label Edit Patient */
-"Edit Patient" = "Edit Patient";
+"Edit Patient" = "රෝගියාගේ විස්තර නිවැරදි කිරිම"
 
 /* Label encounters */
 "Encounters" = "Encounters";
 
 /* Gender of person */
-"Gender" = "Gender";
+"Gender" = "ලිංගය";
 
 /* Label name */
-"Name" = "Name";
+"Name" = "නම";
 
 /* Label save for offline use */
 "Save for Offline Use" = "Save for Offline Use";
@@ -198,10 +198,10 @@
 "Username" = "Username";
 
 /* Label -add- -patient- */
-"Add Patient" = "Add Patient";
+"Add Patient" = "රෝගියෙකු  ඈතුලත් කරන්න"
 
 /* Label age */
-"Age" = "Age";
+"Age" = "වයස";
 
 /* Error message */
 "Couldn't save patient. Make sure all required fields are filled out" = "Couldn't save patient. Make sure all required fields are filled out";
@@ -222,52 +222,52 @@
 "ID Type" = "ID Type";
 
 /* Label identifier */
-"Identifier" = "Identifier";
+"Identifier" = “හැදුනුම්ප”;
 
 /* Label female */
-"Male" = "Male";
+"Male" = “ලිංග”;
 
 /* Label name */
-"Name" = "Name";
+"Name" = “නම”;
 
 /* Label select */
-"Select" = "Select";
+"Select" = “තෝර”;
 
 /* Label -choose- -location- */
-"Choose Location" = "Choose Location";
+"Choose Location" = “ස්ථානය තේරීම";
 
 /* Label -capture- -vitals- */
-"Capture Vitals" = "Capture Vitals";
+"Capture Vitals" = "රෝග ලක්ෂණ ලබාග”;
 
 /* Label location */
-"Location" = "Location";
+"Location" = “ස්ථාන”;
 
 /* Label select */
-"Select" = "Select";
+"Select" = “තේරිම”;
 
 /* Label value */
-"Value" = "Value";
+"Value" = “අගය”;
 
 /* Label vitals */
-"Vitals" = "Vitals";
+"Vitals" = “රෝග ලක්ෂණ”;
 
 /* Lable -add- -visit- -note- */
-"Add Visit Note" = "Add Visit Note";
+"Add Visit Note" = “නව වාට්ටු පෑමිනීම”;
 
 /* Label choose */
-"Choose" = "Choose";
+"Choose" = “තේරිම”;
 
 /* Label -note- -on */
-"Note on" = "Note on";
+"Note on" = “සදහා”;
 
 /* Label -select- -location- */
-"Select Location" = "Select Location";
+"Select Location" = “ස්ථානය  තෝරන්න "
 
 /* Label -select- -visit- -type- */
-"Select visit Type" = "Select visit Type";
+"Select visit Type" = “පෑමිණෙන වර්ගය තොරන්න";
 
 /* Label -start- -visit- */
-"Start Visit" = "Start Visit";
+"Start Visit" = “පෑමිනීමක් අරඹන්න"
 
 /* Label -visit- -type- */
-"Visit Type" = "Visit Type";
+"Visit Type" = “පෑමිනීම් වර්ගය ";
